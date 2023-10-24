@@ -1,6 +1,5 @@
 #!/usr/bin/node
-/* Display the number of movie the character
-Wedge Antilles is present */
+/* Display number of appearance of certain char */
 
 const request = require('request');
 const Url = process.argv[2];
